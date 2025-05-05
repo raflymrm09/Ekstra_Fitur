@@ -158,7 +158,7 @@ plt.ylabel('Jumlah Piksel')
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-
+```
 # Deteksi Kematangan Buah Stroberry #
 ```
 from google.colab import files
