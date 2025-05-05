@@ -42,7 +42,7 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
-
+```
 # Deteksi Indeks #
 ```
 import matplotlib.pyplot as plt
@@ -99,7 +99,7 @@ plt.xlim([0, 256])
 
 plt.tight_layout()
 plt.show()
-
+```
 # Deteksi Refrensi #
 ```
 # Step 1: Install Library
@@ -276,4 +276,4 @@ plt.ylabel("Jumlah Piksel")
 
 plt.tight_layout()
 plt.show()
-
+```
